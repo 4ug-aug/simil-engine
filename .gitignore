@@ -12,6 +12,11 @@ bin-release/
 *.air
 *.ipa
 *.apk
+venv/
+.env
+__pycache__/
+data/
+
 
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
